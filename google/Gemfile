@@ -6,7 +6,7 @@ gem 'bootstrap-sass'
 gem 'bcrypt-ruby', '3.0.1'   
 gem 'jquery-rails', "~> 2.3.0"
 gem 'jquery-ui-rails' 
-gem "rmagick"
+
 gem 'fog'
 gem "mail"   
 gem 'will_paginate' 
