@@ -7,10 +7,6 @@ gem 'rails', '3.2.8'
 # Use SCSS for stylesheets
 
 
-# Use Uglifier as compressor for JavaScript assets
-gem 'uglifier', '>= 1.3.0'
-
-
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
