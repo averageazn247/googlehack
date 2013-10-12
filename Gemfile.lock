@@ -190,7 +190,16 @@ GEM
       hike (~> 1.2)
       rack (~> 1.0)
       tilt (~> 1.1, != 1.3.0)
+<<<<<<< HEAD
     temple (0.6.7)
+=======
+    sprockets-rails (2.0.0)
+      actionpack (>= 3.0)
+      activesupport (>= 3.0)
+      sprockets (~> 2.8)
+    sqlite3 (1.3.8)
+    sqlite3 (1.3.8-x86-mingw32)
+>>>>>>> Restart?
     thor (0.18.1)
     tilt (1.4.1)
     timers (1.1.0)
@@ -210,6 +219,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   aws-sdk
