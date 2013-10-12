@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Google::Application.config.secret_key_base = '5c0d29eebd924d0fec6b0dffa51e15f3d46fd1e5fb8a22ee72b10e1b68580704c59a5fff8973c315adb7965350f141ee53f435909ce749dcbd7b4893cbec7e5d'
+Googlehack::Application.config.secret_key_base = 'b4c2e7e3e43f8259330fd43e5e7206ac0da5f23d633fe6d69f4d8d67498a5b9b0df6bb88b9e53706e7c719b44f7ed8f3231b2c9f116def5e77ecea6ed749fc43'
